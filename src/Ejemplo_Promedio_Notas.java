@@ -19,9 +19,9 @@ public class Ejemplo_Promedio_Notas {
         
         
         while(i<total){
-            float note=0;
+            
             System.out.println("Digite la "+(i+1)+"° nota :");
-            note=input.nextFloat();
+            float note=input.nextFloat();
             sum+=note;
             i+=1;
         }
