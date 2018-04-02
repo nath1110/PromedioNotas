@@ -1,11 +1,12 @@
 
 
-import java.util.Scanner;
+
 /**
  *
  * @author Nathaly Alvarenga
  */
 
+import java.util.Scanner;
 public class Ejemplo_Promedio_Notas {
 
     public static void main(String[] args) {
